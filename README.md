@@ -1,3 +1,7 @@
+# Dashboard Preview Image for the above project.
+<img width="1412" height="895" alt="Screenshot 2026-02-11 111033" src="https://github.com/user-attachments/assets/e41951f6-2506-4144-9ec8-6d48bd8efb42" />
+
+
 # **Job Hiring Trend Analysis**
 
 📌 **Project Overview**
@@ -99,6 +103,3 @@ Aspiring Data Analyst skilled in Python, Pandas, Excel, and Data Visualization
 🔗 GitHub: [Saiteja525934] (https://github.com/Saiteja525934)
 
 🔗 LinkedIn:[ Sai Teja Telu] (https://www.linkedin.com/in/sai-teja-b49751384/)
-
-# Dashboard Preview Image for the above project.
-<img width="1412" height="895" alt="Screenshot 2026-02-11 111033" src="https://github.com/user-attachments/assets/e41951f6-2506-4144-9ec8-6d48bd8efb42" />
