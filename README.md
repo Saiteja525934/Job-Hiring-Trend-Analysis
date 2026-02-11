@@ -1,12 +1,12 @@
-📈 Job Hiring Trend Analysis
+# **Job Hiring Trend Analysis**
 
-📌 Project Overview
+📌 **Project Overview**
 
 The Job Hiring Trend Analysis project focuses on analyzing monthly job posting patterns to understand hiring trends across the year.
 This project provides insights into seasonal hiring behavior, peak recruitment months, and low-demand periods using structured data analysis and visualization techniques.
 The goal is to help students, job seekers, and career planners understand when hiring demand is highest and plan job applications and skill development accordingly.
 
-🚀 Features
+🚀 **Features**
 
 •	  Month-wise job posting analysis
 
@@ -20,7 +20,7 @@ The goal is to help students, job seekers, and career planners understand when h
 
 •	 Career planning support using hiring trends
 
-🛠️ Tools & Technologies Used
+🛠️ **Tools & Technologies Used**
 
 Data Processing:
 
@@ -42,7 +42,7 @@ Version Control:
 
 •	GitHub
 
-📊 Key Insights
+📊 **Key Insights**
 
 •	Highest hiring months: August, June, January
 
@@ -54,7 +54,7 @@ Version Control:
 
 •	Hiring demand follows cyclical patterns rather than uniform distribution
 
-📈 Visualizations Used
+📈 **Visualizations Used**
 
 •	Line Chart
 
@@ -76,7 +76,7 @@ Version Control:
 
 (Multiple chart types used to compare trends and validate insights)
 
-🎯 Use Cases
+🎯 **Use Cases**
 
 •	Job application timing strategy
 
@@ -90,7 +90,7 @@ Version Control:
 
 •	HR and hiring strategy support
 
-👤 Author
+👤 **Author**
 
 Sai Teja Telu
 
@@ -100,4 +100,5 @@ Aspiring Data Analyst skilled in Python, Pandas, Excel, and Data Visualization
 
 🔗 LinkedIn:[ Sai Teja Telu] (https://www.linkedin.com/in/sai-teja-b49751384/)
 
+# Dashboard Preview Image for the above project.
 <img width="1412" height="895" alt="Screenshot 2026-02-11 111033" src="https://github.com/user-attachments/assets/e41951f6-2506-4144-9ec8-6d48bd8efb42" />
